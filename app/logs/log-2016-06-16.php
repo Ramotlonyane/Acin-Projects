@@ -102,3 +102,57 @@ INFO - 2016-06-16 12:39:09 --> File loaded: /var/www/html/ramotlonyane_modise/TE
 INFO - 2016-06-16 12:39:09 --> File loaded: /var/www/html/ramotlonyane_modise/TEMP/app/views/layouts/layout.php
 INFO - 2016-06-16 12:39:09 --> Final output sent to browser
 DEBUG - 2016-06-16 12:39:09 --> Total execution time: 0.0054
+INFO - 2016-06-16 16:18:31 --> Config Class Initialized
+INFO - 2016-06-16 16:18:31 --> Hooks Class Initialized
+DEBUG - 2016-06-16 16:18:31 --> UTF-8 Support Enabled
+INFO - 2016-06-16 16:18:31 --> Utf8 Class Initialized
+INFO - 2016-06-16 16:18:31 --> URI Class Initialized
+DEBUG - 2016-06-16 16:18:31 --> No URI present. Default controller set.
+INFO - 2016-06-16 16:18:31 --> Router Class Initialized
+INFO - 2016-06-16 16:18:31 --> Output Class Initialized
+INFO - 2016-06-16 16:18:31 --> Security Class Initialized
+DEBUG - 2016-06-16 16:18:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-06-16 16:18:31 --> Input Class Initialized
+INFO - 2016-06-16 16:18:31 --> Language Class Initialized
+INFO - 2016-06-16 16:18:31 --> Loader Class Initialized
+INFO - 2016-06-16 16:18:31 --> Controller Class Initialized
+INFO - 2016-06-16 16:18:31 --> File loaded: /var/www/html/ramotlonyane_modise/TEMP/app/views/homepage.php
+INFO - 2016-06-16 16:18:31 --> File loaded: /var/www/html/ramotlonyane_modise/TEMP/app/views/layouts/layout.php
+INFO - 2016-06-16 16:18:31 --> Final output sent to browser
+DEBUG - 2016-06-16 16:18:31 --> Total execution time: 0.0094
+INFO - 2016-06-16 18:30:45 --> Config Class Initialized
+INFO - 2016-06-16 18:30:45 --> Hooks Class Initialized
+DEBUG - 2016-06-16 18:30:45 --> UTF-8 Support Enabled
+INFO - 2016-06-16 18:30:45 --> Utf8 Class Initialized
+INFO - 2016-06-16 18:30:45 --> URI Class Initialized
+DEBUG - 2016-06-16 18:30:45 --> No URI present. Default controller set.
+INFO - 2016-06-16 18:30:45 --> Router Class Initialized
+INFO - 2016-06-16 18:30:45 --> Output Class Initialized
+INFO - 2016-06-16 18:30:45 --> Security Class Initialized
+DEBUG - 2016-06-16 18:30:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-06-16 18:30:45 --> Input Class Initialized
+INFO - 2016-06-16 18:30:45 --> Language Class Initialized
+INFO - 2016-06-16 18:30:45 --> Loader Class Initialized
+INFO - 2016-06-16 18:30:45 --> Controller Class Initialized
+INFO - 2016-06-16 18:30:45 --> File loaded: /var/www/html/ramotlonyane_modise/TEMP/app/views/homepage.php
+INFO - 2016-06-16 18:30:45 --> File loaded: /var/www/html/ramotlonyane_modise/TEMP/app/views/layouts/layout.php
+INFO - 2016-06-16 18:30:45 --> Final output sent to browser
+DEBUG - 2016-06-16 18:30:45 --> Total execution time: 0.0238
+INFO - 2016-06-16 18:34:29 --> Config Class Initialized
+INFO - 2016-06-16 18:34:29 --> Hooks Class Initialized
+DEBUG - 2016-06-16 18:34:29 --> UTF-8 Support Enabled
+INFO - 2016-06-16 18:34:29 --> Utf8 Class Initialized
+INFO - 2016-06-16 18:34:29 --> URI Class Initialized
+DEBUG - 2016-06-16 18:34:29 --> No URI present. Default controller set.
+INFO - 2016-06-16 18:34:29 --> Router Class Initialized
+INFO - 2016-06-16 18:34:29 --> Output Class Initialized
+INFO - 2016-06-16 18:34:29 --> Security Class Initialized
+DEBUG - 2016-06-16 18:34:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-06-16 18:34:29 --> Input Class Initialized
+INFO - 2016-06-16 18:34:29 --> Language Class Initialized
+INFO - 2016-06-16 18:34:29 --> Loader Class Initialized
+INFO - 2016-06-16 18:34:29 --> Controller Class Initialized
+INFO - 2016-06-16 18:34:29 --> File loaded: /var/www/html/ramotlonyane_modise/TEMP/app/views/homepage.php
+INFO - 2016-06-16 18:34:29 --> File loaded: /var/www/html/ramotlonyane_modise/TEMP/app/views/layouts/layout.php
+INFO - 2016-06-16 18:34:29 --> Final output sent to browser
+DEBUG - 2016-06-16 18:34:29 --> Total execution time: 0.0159
